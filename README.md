@@ -1,4 +1,5 @@
 # UI-UX-Learning
 
 ### Introduction
-- [ ] [What Is UX Design? - An Introduction (Full Guide)](https://www.youtube.com/watch?v=ziQEqGZB8GE) `0:08:23` 
+- [ ] [YouTube: What Is UX Design? - An Introduction (Full Guide)](https://www.youtube.com/watch?v=ziQEqGZB8GE) `0:08:23` 
+- [ ] [Article: The Difference Between UX and UI Design – A Beginner’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
