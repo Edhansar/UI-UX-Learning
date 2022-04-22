@@ -11,3 +11,7 @@
 
 ### UI Design Tutorials
 - [ ] [YouTube: Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=kbZejnPXyLM) `2:57:59`
+
+### YouTube Channels
+- [ ] [Bring Your Own Laptop](https://www.youtube.com/c/ByolAuAdobe)
+- [ ] [DesignCourse](https://www.youtube.com/c/DesignCourse)
