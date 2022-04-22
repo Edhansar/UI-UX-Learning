@@ -15,3 +15,4 @@
 ### YouTube Channels
 - [ ] [Bring Your Own Laptop](https://www.youtube.com/c/ByolAuAdobe)
 - [ ] [DesignCourse](https://www.youtube.com/c/DesignCourse)
+- [ ] [DesignerUp](https://www.youtube.com/c/DesignerUp)
