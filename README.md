@@ -8,3 +8,6 @@
 
 ### Course
 - [ ] [UX Design Learning Path](https://www.springboard.com/learning-paths/user-experience-design/learn/?referral=https://www.springboard.com/resources/learning-paths/user-experience-design/)
+
+### UI Design Tutorials
+- [ ] [YouTube: Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=kbZejnPXyLM) `2:57:59`
