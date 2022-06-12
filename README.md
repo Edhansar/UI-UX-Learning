@@ -11,6 +11,7 @@
 - [ ] [UX Design Learning Path](https://www.springboard.com/learning-paths/user-experience-design/learn/?referral=https://www.springboard.com/resources/learning-paths/user-experience-design/)
 
 ### UI Design Tutorials
+- [ ] [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8) `0:24:22`
 - [ ] [YouTube: Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=kbZejnPXyLM) `2:57:59`
 
 ### YouTube Channels
