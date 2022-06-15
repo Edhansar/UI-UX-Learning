@@ -14,6 +14,7 @@
 - [ ] [YouTube: Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8) `0:24:22`
 - [ ] [YouTube: Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=kbZejnPXyLM) `2:57:59`
 - [ ] [6 Stages of UI Design](https://www.youtube.com/watch?v=_6Tl2_eM0DE)
+- [ ] [Typography for Developers Tutorial - Full Course](https://youtu.be/agbh1wbfJt8)
 
 ### YouTube Channels
 - [ ] [Bring Your Own Laptop](https://www.youtube.com/c/ByolAuAdobe)
